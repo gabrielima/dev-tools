@@ -1,5 +1,5 @@
-# utils.cc
-utils.cc provides you with a set o tools for your day-to-day dev work 🛠
+# dev-tools
+A set o tools for your day-to-day dev work 🛠
 
 I decided to have a little pet project to stretch my javascript SPA muscles as I have been working full-time with Rails and Grails nowadays.
 
