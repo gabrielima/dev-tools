@@ -1,9 +1,8 @@
-import React from 'react'
-import CpfService from '../../services/cpf.service'
+import CpfValidator from '../../components/CpfValidator'
 
 const Home = () => (
   <>
-    <p>{CpfService.generate()}</p>
+    <CpfValidator />
   </>
 )
 
