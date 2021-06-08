@@ -1,6 +1,6 @@
 export default interface ISubMenuItem {
   label: string
-  link: string
+  href: string
   active: boolean
   icon?: string
 }
